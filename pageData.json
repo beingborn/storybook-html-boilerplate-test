@@ -1,0 +1,142 @@
+[
+    {
+        "id": "2026-03-13100000",
+        "title": "로그인 페이지",
+        "url": "login.html",
+        "body": "",
+        "status": false
+    },
+    {
+        "id": "2026-03-13100001",
+        "title": "회원가입 페이지",
+        "url": "signup.html",
+        "body": "",
+        "status": false
+    },
+    {
+        "id": "2026-03-13100002",
+        "title": "메인 페이지",
+        "url": "main.html",
+        "body": "",
+        "status": false
+    },
+    {
+        "id": "2026-03-13100003",
+        "title": "이벤트 목록 페이지",
+        "url": "event-list.html",
+        "body": "",
+        "status": false
+    },
+    {
+        "id": "2026-03-13100004",
+        "title": "이벤트 상세 페이지",
+        "url": "event-detail.html",
+        "body": "",
+        "status": false
+    },
+    {
+        "id": "2026-03-13100005",
+        "title": "이벤트 응모 페이지",
+        "url": "event-entry.html",
+        "body": "",
+        "status": false
+    },
+    {
+        "id": "2026-03-13100006",
+        "title": "당첨자 발표 페이지",
+        "url": "winners.html",
+        "body": "",
+        "status": false
+    },
+    {
+        "id": "2026-03-13100007",
+        "title": "공지사항 페이지",
+        "url": "notice.html",
+        "body": "",
+        "status": false
+    },
+    {
+        "id": "2026-03-13100008",
+        "title": "공지 상세 페이지",
+        "url": "notice-detail.html",
+        "body": "",
+        "status": false
+    },
+    {
+        "id": "2026-03-13100009",
+        "title": "FAQ 페이지",
+        "url": "faq.html",
+        "body": "",
+        "status": false
+    },
+    {
+        "id": "2026-03-13100010",
+        "title": "고객센터 페이지",
+        "url": "support.html",
+        "body": "",
+        "status": false
+    },
+    {
+        "id": "2026-03-13100011",
+        "title": "문의하기 페이지",
+        "url": "inquiry.html",
+        "body": "",
+        "status": false
+    },
+    {
+        "id": "2026-03-13100012",
+        "title": "문의 완료 페이지",
+        "url": "inquiry-complete.html",
+        "body": "",
+        "status": false
+    },
+    {
+        "id": "2026-03-13100013",
+        "title": "마이페이지",
+        "url": "mypage.html",
+        "body": "",
+        "status": false
+    },
+    {
+        "id": "2026-03-13100014",
+        "title": "내 응모내역 페이지",
+        "url": "my-entry.html",
+        "body": "",
+        "status": false
+    },
+    {
+        "id": "2026-03-13100015",
+        "title": "개인정보 수정 페이지",
+        "url": "profile-edit.html",
+        "body": "",
+        "status": false
+    },
+    {
+        "id": "2026-03-13100016",
+        "title": "이용약관 페이지",
+        "url": "terms.html",
+        "body": "",
+        "status": false
+    },
+    {
+        "id": "2026-03-13100017",
+        "title": "개인정보처리방침 페이지",
+        "url": "privacy.html",
+        "body": "",
+        "status": false
+    },
+    {
+        "id": "2026-03-13100018",
+        "title": "이벤트 유의사항 페이지",
+        "url": "event-policy.html",
+        "body": "",
+        "status": false
+    },
+    {
+        "id": "2026-03-13100019",
+        "title": "404 페이지",
+        "url": "error-404.html",
+        "body": "",
+        "status": false
+    }
+]
