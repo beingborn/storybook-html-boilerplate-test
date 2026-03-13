@@ -5,16 +5,16 @@ export default {
 export const Primary = () => {
     return `
         <button class="btn">
-            Button Primary
+            Button Primary Test
         </button>
         <button class="btn">
-            Button Primary
+            Button Primary Test
         </button>
         <button class="btn">
-            Button Primary
+            Button Primary Test
         </button>
         <button class="btn">
-            Button Primary
+            Button Primary Test
         </button>
     `;
 };
@@ -22,7 +22,7 @@ export const Primary = () => {
 export const Secondary = () => {
     return `
         <button class="btn">
-            Button Secondary
+            Button Secondary Workflow Test
         </button>
     `;
 };
