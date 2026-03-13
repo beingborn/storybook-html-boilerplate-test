@@ -3,4 +3,13 @@
     align-items: center;
     justify-content: center;
     padding: 4px 8px;
+    border-radius: 6px;
+}
+
+.btn-primary {
+    background-color: orange;
+}
+
+.btn-secondary {
+    background-color: lightcoral;
 }
